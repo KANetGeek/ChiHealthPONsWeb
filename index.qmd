@@ -5,14 +5,10 @@ format: html
 
 ## Project Overview
 
-A short over view of the project
+As of March 2024, a team of researchers in UIC’s Networks and Governance Lab have identified over 65 community health and wellness collaborative groups in the City of Chicago and Cook County, involving over 800 public and private sector organizations. These groups, referred to here as purpose-oriented networks (PONs), are essential to supporting the diverse health and wellness needs of our vibrant communities around UIC. Some examples of the PONs of interest include UIC’s Healthy Start Community Action Network, Partnership for Healthy Chicago, Smart Chicago Collaborative Health Centers, and more.
 
-## Main Findings
+PONs are a prevalent interorganizational forum for addressing complex public issues. While there is extensive scholarship in many fields examining interorganizational networks, less is known about the impact of a networks’ external environment on its sustainability and effectiveness over time (Nowell & Albrecht, 2023). Expanding on the mixed-methods research approach already underway, this research seeks to specifically address: How do resource strategies evolve across a set of PONs over time in reaction to community needs?
 
-### *Network-Level*
-
-### *Organizational Level*
-
-## Data Visualizations
+#### Explore how public health PONs are interconnected across the metropolitan Chicago area!
 
 ![Chicago Public Health Network Map](Visualizations/Chicago%20Health%20PONs%20orgs%20only.jpeg)
