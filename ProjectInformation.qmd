@@ -5,28 +5,21 @@ format: html
 
 ## Project Information
 
+As of March 2024, our team of researchers in UIC’s Networks and Governance Lab have identified over 65 community health and wellness collaborative groups in the City of Chicago and Cook County, involving over 800 public and private sector organizations. These groups, referred to here as purpose-oriented networks (PONs), are essential to supporting the diverse health and wellness needs of our vibrant communities.
+
 ### Methods
 
-This study uses a population-level dataset which includes all the purpose-oriented public health networks and their members in Chicago. A list of all the networks is primarily identified by research team members based on the publicly available data from network websites and documents. 
-
-Network member organizations/individuals and their roles in the network are also collected based on publicly available data.
+This study uses a population-level dataset which includes all the purpose-oriented public health networks and their members in Chicago and Cook County. The list of all the networks is primarily identified by research team members based on the publicly available data from network websites and documents. Network member organizations and individuals and their roles in the network are also collected based on publicly available data.
 
 #### Survey
 
-The coordinator/manager of each network in the list are invited to participate in this study. Coordinators/managers are included in the study if they agree to participate and can provide the necessary data. The email address are collected through publicly available data such as the networks’ documents and website. In this study, we collected the following data from participants:
+The coordinator/manager of each network in the list is invited to participate in this study. Coordinators/managers are included in the study if they agree to participate and can provide the necessary data. In our study, we are asking for the following data from participants:
 
 -   Level of participation from each member of the network.
-
 -   Insights about the structure of the network.
-
+-   Information about the networks leaders and funders.
 -   Relationships between networks.
 
-#### Supplementary Data Collection
+We appreciate your time taking our survey:
 
-Due to low response rate, supplementary data collection process
-
--   Network Level Data: type, motivation of establishment, scale, decision-making structure, size, activities, funding resources.
-
--   Member Organization Level Data: type, If it is a NPO, combined with IRS 990 data
-
-\
+https://uic.ca1.qualtrics.com/jfe/form/SV_3z4xXtb0N1sIR3U
