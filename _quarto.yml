@@ -7,12 +7,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - text: "Our Team"
-        file: Ourteam.qmd
-      - text: "Project Information"
-        file: ProjectInformation.qmd
       - text: "Findings"
         file: Findings.qmd
+      - text: "Project Information"
+        file: ProjectInformation.qmd
+      - text: "Our Team"
+        file: Ourteam.qmd
       - text: "Connect with Us"
         file: Connect.qmd
 
