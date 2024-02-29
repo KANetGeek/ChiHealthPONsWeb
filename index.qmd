@@ -11,14 +11,18 @@ As of March 2024, a team of researchers in UIC’s Networks and Governance Lab h
 
 PONs are a prevalent interorganizational forum for addressing complex public issues. While there is extensive scholarship in many fields examining interorganizational networks, less is known about the impact of a networks’ external environment on its sustainability and effectiveness over time (Nowell & Albrecht, 2023). Expanding on the mixed-methods research approach already underway, this research seeks to specifically address: How do resource strategies evolve across a set of PONs over time in reaction to community needs?
 
-### Chicago Health Network Map
+### Chicago Health Network Mapping
 
 Explore how public health PONs are interconnected across the metropolitan Chicago area! The map below represents PONs as blue circles and organizations as red circles. What can we learn from this visualization?
 
 -   There are MANY purpose-oriented networks that focus on community health and wellness.
 
--   And, these PONs are mostly interconnected through shared member organizations
+-   These PONs are mostly interconnected through shared member organizations
 
 -   These connections between PONs could be advantageous, or areas of competition
 
-![](Visualizations/Chicago%20Health%20PONs%20orgs%20only.jpeg)
+![](Visualizations/Chicago%20Health%20PONs%20orgs%20only.jpeg){width="500"}
+
+**Our project is supported by the incredible folks of the Department of Public Policy, Management, and Analytics and the Networks and Governance Lab.**
+
+![](Visualizations/Presentation1.png){fig-align="left"}

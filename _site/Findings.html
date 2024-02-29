@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.3.450">
+<meta name="generator" content="quarto-1.4.548">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -47,7 +47,13 @@ ul.task-list li input[type="checkbox"] {
   "collapse-after": 3,
   "panel-placement": "end",
   "type": "overlay",
-  "limit": 20,
+  "limit": 50,
+  "keyboard-shortcut": [
+    "f",
+    "/",
+    "s"
+  ],
+  "show-item-context": false,
   "language": {
     "search-no-results-text": "No results",
     "search-matching-documents-text": "matching documents",
@@ -56,6 +62,7 @@ ul.task-list li input[type="checkbox"] {
     "search-more-match-text": "more match in this document",
     "search-more-matches-text": "more matches in this document",
     "search-clear-button-title": "Clear",
+    "search-text-placeholder": "",
     "search-detached-cancel-button-title": "Cancel",
     "search-submit-button-title": "Submit",
     "search-label": "Search"
@@ -69,9 +76,9 @@ ul.task-list li input[type="checkbox"] {
 
 <div id="quarto-search-results"></div>
   <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg navbar-dark ">
+    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
       <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container">
+      <div class="navbar-brand-container mx-auto">
     <a class="navbar-brand" href="./index.html">
     <span class="navbar-title">UIC Chicago Health Networks Research</span>
     </a>
@@ -83,30 +90,30 @@ ul.task-list li input[type="checkbox"] {
           <div class="collapse navbar-collapse" id="navbarCollapse">
             <ul class="navbar-nav navbar-nav-scroll me-auto">
   <li class="nav-item">
-    <a class="nav-link" href="./index.html" rel="" target="">
- <span class="menu-text">Home</span></a>
+    <a class="nav-link" href="./index.html"> 
+<span class="menu-text">Home</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link active" href="./Findings.html" rel="" target="" aria-current="page">
- <span class="menu-text">Findings</span></a>
+    <a class="nav-link active" href="./Findings.html" aria-current="page"> 
+<span class="menu-text">Findings</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./ProjectInformation.html" rel="" target="">
- <span class="menu-text">Project Information</span></a>
+    <a class="nav-link" href="./ProjectInformation.html"> 
+<span class="menu-text">Project Information</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Ourteam.html" rel="" target="">
- <span class="menu-text">Our Team</span></a>
+    <a class="nav-link" href="./Ourteam.html"> 
+<span class="menu-text">Our Team</span></a>
   </li>  
   <li class="nav-item">
-    <a class="nav-link" href="./Connect.html" rel="" target="">
- <span class="menu-text">Connect with Us</span></a>
+    <a class="nav-link" href="./Connect.html"> 
+<span class="menu-text">Connect with Us</span></a>
   </li>  
 </ul>
-            <div class="quarto-navbar-tools ms-auto">
+          </div> <!-- /navcollapse -->
+          <div class="quarto-navbar-tools">
   <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
 </div>
-          </div> <!-- /navcollapse -->
       </div> <!-- /container-fluid -->
     </nav>
 </header>
@@ -119,20 +126,25 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#network-level" id="toc-network-level" class="nav-link active" data-scroll-target="#network-level"><strong>Network-level</strong></a>
+  <li><a href="#network-domain" id="toc-network-domain" class="nav-link active" data-scroll-target="#network-domain"><strong>Network Domain</strong></a>
   <ul class="collapse">
-  <li><a href="#mission-statements" id="toc-mission-statements" class="nav-link" data-scroll-target="#mission-statements"><strong>Mission Statements</strong></a></li>
+  <li><a href="#bridging-organizations" id="toc-bridging-organizations" class="nav-link" data-scroll-target="#bridging-organizations"><strong>Bridging Organizations</strong></a></li>
+  <li><a href="#core-periphery-structure" id="toc-core-periphery-structure" class="nav-link" data-scroll-target="#core-periphery-structure"><strong>Core-periphery Structure</strong></a></li>
+  </ul></li>
+  <li><a href="#networks" id="toc-networks" class="nav-link" data-scroll-target="#networks"><strong>Networks</strong></a>
+  <ul class="collapse">
   <li><a href="#network-descriptive-statistics" id="toc-network-descriptive-statistics" class="nav-link" data-scroll-target="#network-descriptive-statistics"><strong>Network Descriptive Statistics</strong></a></li>
+  <li><a href="#mission-statements" id="toc-mission-statements" class="nav-link" data-scroll-target="#mission-statements"><strong>Mission Statements</strong></a></li>
   <li><a href="#network-nature-and-government-influence" id="toc-network-nature-and-government-influence" class="nav-link" data-scroll-target="#network-nature-and-government-influence"><strong>Network Nature and Government Influence</strong></a></li>
   <li><a href="#diverse-motivations-and-funding-mechanisms" id="toc-diverse-motivations-and-funding-mechanisms" class="nav-link" data-scroll-target="#diverse-motivations-and-funding-mechanisms"><strong>Diverse Motivations and Funding Mechanisms</strong></a></li>
   <li><a href="#varied-sources-of-financial-support" id="toc-varied-sources-of-financial-support" class="nav-link" data-scroll-target="#varied-sources-of-financial-support"><strong>Varied Sources of Financial Support</strong></a></li>
   <li><a href="#scope-of-activities" id="toc-scope-of-activities" class="nav-link" data-scroll-target="#scope-of-activities"><strong>Scope of Activities</strong></a></li>
   </ul></li>
-  <li><a href="#organizational-level" id="toc-organizational-level" class="nav-link" data-scroll-target="#organizational-level"><strong>Organizational-level</strong></a>
+  <li><a href="#organizations" id="toc-organizations" class="nav-link" data-scroll-target="#organizations"><strong>Organizations</strong></a>
   <ul class="collapse">
   <li><a href="#distribution-of-member-organizations-by-type" id="toc-distribution-of-member-organizations-by-type" class="nav-link" data-scroll-target="#distribution-of-member-organizations-by-type"><strong>Distribution of member organizations by type</strong></a></li>
   <li><a href="#public-health-networks-composition" id="toc-public-health-networks-composition" class="nav-link" data-scroll-target="#public-health-networks-composition"><strong>Public Health Networks Composition</strong></a></li>
-  <li><a href="#bridging-organizations" id="toc-bridging-organizations" class="nav-link" data-scroll-target="#bridging-organizations"><strong>Bridging Organizations</strong></a></li>
+  <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
   </ul></li>
   </ul>
 </nav>
@@ -142,17 +154,32 @@ ul.task-list li input[type="checkbox"] {
 
 
 
-<section id="network-level" class="level2">
-<h2 class="anchored" data-anchor-id="network-level"><strong>Network-level</strong></h2>
-<section id="mission-statements" class="level3">
-<h3 class="anchored" data-anchor-id="mission-statements"><strong>Mission Statements</strong></h3>
-<p>We parsed the mission statements of health networks for frequently used phrases. We were able to group our findings into five main categories: Goals, Activities, Partners, Target Populations and Lenses. (The final category, Lenses, emerged from the Goals category to refer to concepts that were mentioned frequently but were not deliverables.)&nbsp;</p>
-<p>“Goals” refer to the conditions or metrics that the networks were stated to be in service of. Examples include Computer Literacy, Job Help, Leadership, Lifestyles (meaning “healthy” or active lifestyles, in this context), and Nutrition.</p>
-<p>“Activities” are the means by which the networks pursued these goals, for example Education (of the public) and Research. “Activities” were mentioned infrequently in the mission statements.</p>
-<p>“Partner” types were broken down into nine frequently mentioned categories: Academic (presumably university-based research centers or other related institutions, excluding actual schools), Community-Based Organizations, Caregivers (referring to individuals), Employers, Government, Healthcare Providers (institutions or companies, not individual caregivers), Partners, Schools, and Organizations (excluding those specifically referred to as “Community-Based”).</p>
-<p>“Target Populations” could refer to geography (Chicago, Southern Illinois, specific neighborhoods, etc), age (babies, children, elderly), race (Black, Asian) or economic status (underserved).&nbsp;</p>
-<p>Finally, “Lenses” emerged as separate from the “Goals” category of being a larger ideal such as health equity or justice that served to guide the organization while not necessarily being measurable.&nbsp;</p>
+
+<section id="network-domain" class="level2">
+<h2 class="anchored" data-anchor-id="network-domain"><strong>Network Domain</strong></h2>
+<p>As of March 2024, our team of researchers in UIC’s Networks and Governance Lab have identified over 65 community health and wellness collaborative groups in the City of Chicago and Cook County, involving over 800 public and private sector organizations. In the Chicago metro area reveals there is a complex and dynamic environment where diverse organizations operate with varied motivations and resources, collectively contributing to the region’s public health and wellness landscape landscape.</p>
+<section id="bridging-organizations" class="level3">
+<h3 class="anchored" data-anchor-id="bridging-organizations"><strong>Bridging Organizations</strong></h3>
+<p>In our research, we have found that within network domain, or larger community network of PONs, there are many organizations that belong to more than one PON. These organizations serve in bridging roles that connect PONs and support the sharing of ideas and resources across the domain. Of these bridging organizations, 2% are PONs themselves, 4% are for-profit, 20% are government agencies, and an incredible 74% are nonprofit organizations.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="Visualizations/Types of bridging orgs.png" class="img-fluid quarto-figure quarto-figure-left figure-img" width="400"></p>
+</figure>
+</div>
 </section>
+<section id="core-periphery-structure" class="level3">
+<h3 class="anchored" data-anchor-id="core-periphery-structure"><strong>Core-periphery Structure</strong></h3>
+<p>Another important aspect of the City of Chicago and Cook County network domain can be seen in the network map below. The blue circles are PONs, and the red circles are organizations. The lines represent when an organization is a member of a PON.</p>
+<p>The network domain reflects a core-periphery style, or almost like the hub and spokes of a wheel. The core organizations and PONs are highly embedded, or interconnected, within the domain. As we continue to collect data, we aim to uncover if that embeddedness comes with both costs and benefits.</p>
+<div class="quarto-figure quarto-figure-left">
+<figure class="figure">
+<p><img src="Visualizations/Chicago Health PONs orgs only.jpeg" class="img-fluid quarto-figure quarto-figure-left figure-img"></p>
+</figure>
+</div>
+</section>
+</section>
+<section id="networks" class="level2">
+<h2 class="anchored" data-anchor-id="networks"><strong>Networks</strong></h2>
 <section id="network-descriptive-statistics" class="level3">
 <h3 class="anchored" data-anchor-id="network-descriptive-statistics"><strong>Network Descriptive Statistics</strong></h3>
 <p>Non-Profit Status (NPO): About 24% of the networks are non-profit organizations.</p>
@@ -179,6 +206,15 @@ ul.task-list li input[type="checkbox"] {
 </ul>
 <p>In the diverse landscape of public health networks within the metropolitan Chicago area, a detailed examination of their composition and operational characteristics reveals insightful patterns. These networks, primarily comprising member organizations, exhibit a variety of structural and funding attributes that shape their functioning and impact.</p>
 </section>
+<section id="mission-statements" class="level3">
+<h3 class="anchored" data-anchor-id="mission-statements"><strong>Mission Statements</strong></h3>
+<p>We parsed the mission statements of health networks for frequently used phrases. We were able to group our findings into five main categories: Goals, Activities, Partners, Target Populations and Lenses. (The final category, Lenses, emerged from the Goals category to refer to concepts that were mentioned frequently but were not deliverables.)&nbsp;</p>
+<p>“Goals” refer to the conditions or metrics that the networks were stated to be in service of. Examples include Computer Literacy, Job Help, Leadership, Lifestyles (meaning “healthy” or active lifestyles, in this context), and Nutrition.</p>
+<p>“Activities” are the means by which the networks pursued these goals, for example Education (of the public) and Research. “Activities” were mentioned infrequently in the mission statements.</p>
+<p>“Partner” types were broken down into nine frequently mentioned categories: Academic (presumably university-based research centers or other related institutions, excluding actual schools), Community-Based Organizations, Caregivers (referring to individuals), Employers, Government, Healthcare Providers (institutions or companies, not individual caregivers), Partners, Schools, and Organizations (excluding those specifically referred to as “Community-Based”).</p>
+<p>“Target Populations” could refer to geography (Chicago, Southern Illinois, specific neighborhoods, etc), age (babies, children, elderly), race (Black, Asian) or economic status (underserved).&nbsp;</p>
+<p>Finally, “Lenses” emerged as separate from the “Goals” category of being a larger ideal such as health equity or justice that served to guide the organization while not necessarily being measurable.&nbsp;</p>
+</section>
 <section id="network-nature-and-government-influence" class="level3">
 <h3 class="anchored" data-anchor-id="network-nature-and-government-influence"><strong>Network Nature and Government Influence</strong></h3>
 <p>A notable 24% of these networks operate under a non-profit status, highlighting a significant segment dedicated to public welfare without a profit motive. Concurrently, approximately 36% of these entities are government-mandated, indicating a substantial governmental role in public health initiatives within this region.</p>
@@ -197,8 +233,8 @@ ul.task-list li input[type="checkbox"] {
 <p>This overview of the public health networks in the metro Chicago area reveals a complex and dynamic environment where diverse organizations operate with varied motivations and resources, collectively contributing to the region’s public health landscape.</p>
 </section>
 </section>
-<section id="organizational-level" class="level2">
-<h2 class="anchored" data-anchor-id="organizational-level"><strong>Organizational-level</strong></h2>
+<section id="organizations" class="level2">
+<h2 class="anchored" data-anchor-id="organizations"><strong>Organizations</strong></h2>
 <section id="distribution-of-member-organizations-by-type" class="level3">
 <h3 class="anchored" data-anchor-id="distribution-of-member-organizations-by-type"><strong>Distribution of member organizations by type</strong></h3>
 <p>We analyzed the distribution of member organization types within these networks. The average number of member organizations across 54 networks is 20. Non-profit organizations emerge as the predominant players, constituting 65.14% (542 organizations) of the network. This significant presence underscores the critical role of non-profit entities in driving public health initiatives and providing essential services in the Chicago area.&nbsp;</p>
@@ -212,9 +248,8 @@ ul.task-list li input[type="checkbox"] {
 <p>As introduced in the previous sections, the diversity of member organizations in the public health networks of the metro Chicago area is a key aspect of their composition. However, the complete spectrum of organization types, including Government, Non-profit, Program, For-profit, Network, and Advocacy groups, is rarely represented within a single network.</p>
 <p>A closer examination indicates that only two networks, the “Collaborative for Community Wellness” and “School Health Access Collaborative”, exhibit a comprehensive mix of all these organization types. This suggests that while diversity in organizational makeup is a common feature, the extent of this diversity varies considerably across different networks. The most common composition type typically involves a combination of non-profits and one or two other organization types, underlining the central role that non-profits play in these health networks.</p>
 </section>
-<section id="bridging-organizations" class="level3">
-<h3 class="anchored" data-anchor-id="bridging-organizations"><strong>Bridging Organizations</strong></h3>
-<p>In progress</p>
+<section id="section" class="level3">
+<h3 class="anchored" data-anchor-id="section"></h3>
 
 
 </section>
@@ -262,6 +297,33 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       } else {
         el.classList.add('notransition');
       }
+    }
+  }
+  const toggleGiscusIfUsed = (isAlternate, darkModeDefault) => {
+    const baseTheme = document.querySelector('#giscus-base-theme')?.value ?? 'light';
+    const alternateTheme = document.querySelector('#giscus-alt-theme')?.value ?? 'dark';
+    let newTheme = '';
+    if(darkModeDefault) {
+      newTheme = isAlternate ? baseTheme : alternateTheme;
+    } else {
+      newTheme = isAlternate ? alternateTheme : baseTheme;
+    }
+    const changeGiscusTheme = () => {
+      // From: https://github.com/giscus/giscus/issues/336
+      const sendMessage = (message) => {
+        const iframe = document.querySelector('iframe.giscus-frame');
+        if (!iframe) return;
+        iframe.contentWindow.postMessage({ giscus: message }, 'https://giscus.app');
+      }
+      sendMessage({
+        setConfig: {
+          theme: newTheme
+        }
+      });
+    }
+    const isGiscussLoaded = window.document.querySelector('iframe.giscus-frame') !== null;
+    if (isGiscussLoaded) {
+      changeGiscusTheme();
     }
   }
   const toggleColorMode = (alternate) => {
@@ -330,13 +392,15 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       return localAlternateSentinel;
     }
   }
-  let localAlternateSentinel = 'default';
+  const darkModeDefault = false;
+  let localAlternateSentinel = darkModeDefault ? 'alternate' : 'default';
   // Dark / light mode switch
   window.quartoToggleColorScheme = () => {
     // Read the current dark / light value 
     let toAlternate = !hasAlternateSentinel();
     toggleColorMode(toAlternate);
     setStyleSentinel(toAlternate);
+    toggleGiscusIfUsed(toAlternate, darkModeDefault);
   };
   // Ensure there is a toggle, if there isn't float one in the top right
   if (window.document.querySelector('.quarto-color-scheme-toggle') === null) {
@@ -415,10 +479,9 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
-  function tippyHover(el, contentFn) {
+  function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
-      content: contentFn,
       maxWidth: 500,
       delay: 100,
       arrow: false,
@@ -428,8 +491,17 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       interactive: true,
       interactiveBorder: 10,
       theme: 'quarto',
-      placement: 'bottom-start'
+      placement: 'bottom-start',
     };
+    if (contentFn) {
+      config.content = contentFn;
+    }
+    if (onTriggerFn) {
+      config.onTrigger = onTriggerFn;
+    }
+    if (onUntriggerFn) {
+      config.onUntrigger = onUntriggerFn;
+    }
     window.tippy(el, config); 
   }
   const noterefs = window.document.querySelectorAll('a[role="doc-noteref"]');
@@ -442,6 +514,125 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
       return note.innerHTML;
+    });
+  }
+  const xrefs = window.document.querySelectorAll('a.quarto-xref');
+  const processXRef = (id, note) => {
+    // Strip column container classes
+    const stripColumnClz = (el) => {
+      el.classList.remove("page-full", "page-columns");
+      if (el.children) {
+        for (const child of el.children) {
+          stripColumnClz(child);
+        }
+      }
+    }
+    stripColumnClz(note)
+    if (id === null || id.startsWith('sec-')) {
+      // Special case sections, only their first couple elements
+      const container = document.createElement("div");
+      if (note.children && note.children.length > 2) {
+        container.appendChild(note.children[0].cloneNode(true));
+        for (let i = 1; i < note.children.length; i++) {
+          const child = note.children[i];
+          if (child.tagName === "P" && child.innerText === "") {
+            continue;
+          } else {
+            container.appendChild(child.cloneNode(true));
+            break;
+          }
+        }
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(container);
+        }
+        return container.innerHTML
+      } else {
+        if (window.Quarto?.typesetMath) {
+          window.Quarto.typesetMath(note);
+        }
+        return note.innerHTML;
+      }
+    } else {
+      // Remove any anchor links if they are present
+      const anchorLink = note.querySelector('a.anchorjs-link');
+      if (anchorLink) {
+        anchorLink.remove();
+      }
+      if (window.Quarto?.typesetMath) {
+        window.Quarto.typesetMath(note);
+      }
+      // TODO in 1.5, we should make sure this works without a callout special case
+      if (note.classList.contains("callout")) {
+        return note.outerHTML;
+      } else {
+        return note.innerHTML;
+      }
+    }
+  }
+  for (var i=0; i<xrefs.length; i++) {
+    const xref = xrefs[i];
+    tippyHover(xref, undefined, function(instance) {
+      instance.disable();
+      let url = xref.getAttribute('href');
+      let hash = undefined; 
+      if (url.startsWith('#')) {
+        hash = url;
+      } else {
+        try { hash = new URL(url).hash; } catch {}
+      }
+      if (hash) {
+        const id = hash.replace(/^#\/?/, "");
+        const note = window.document.getElementById(id);
+        if (note !== null) {
+          try {
+            const html = processXRef(id, note.cloneNode(true));
+            instance.setContent(html);
+          } finally {
+            instance.enable();
+            instance.show();
+          }
+        } else {
+          // See if we can fetch this
+          fetch(url.split('#')[0])
+          .then(res => res.text())
+          .then(html => {
+            const parser = new DOMParser();
+            const htmlDoc = parser.parseFromString(html, "text/html");
+            const note = htmlDoc.getElementById(id);
+            if (note !== null) {
+              const html = processXRef(id, note);
+              instance.setContent(html);
+            } 
+          }).finally(() => {
+            instance.enable();
+            instance.show();
+          });
+        }
+      } else {
+        // See if we can fetch a full url (with no hash to target)
+        // This is a special case and we should probably do some content thinning / targeting
+        fetch(url)
+        .then(res => res.text())
+        .then(html => {
+          const parser = new DOMParser();
+          const htmlDoc = parser.parseFromString(html, "text/html");
+          const note = htmlDoc.querySelector('main.content');
+          if (note !== null) {
+            // This should only happen for chapter cross references
+            // (since there is no id in the URL)
+            // remove the first header
+            if (note.children.length > 0 && note.children[0].tagName === "HEADER") {
+              note.children[0].remove();
+            }
+            const html = processXRef(null, note);
+            instance.setContent(html);
+          } 
+        }).finally(() => {
+          instance.enable();
+          instance.show();
+        });
+      }
+    }, function(instance) {
     });
   }
       let selectedAnnoteEl;
@@ -485,6 +676,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
             }
             div.style.top = top - 2 + "px";
             div.style.height = height + 4 + "px";
+            div.style.left = 0;
             let gutterDiv = window.document.getElementById("code-annotation-line-highlight-gutter");
             if (gutterDiv === null) {
               gutterDiv = window.document.createElement("div");
@@ -510,6 +702,32 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
         });
         selectedAnnoteEl = undefined;
       };
+        // Handle positioning of the toggle
+    window.addEventListener(
+      "resize",
+      throttle(() => {
+        elRect = undefined;
+        if (selectedAnnoteEl) {
+          selectCodeLines(selectedAnnoteEl);
+        }
+      }, 10)
+    );
+    function throttle(fn, ms) {
+    let throttle = false;
+    let timer;
+      return (...args) => {
+        if(!throttle) { // first call gets through
+            fn.apply(this, args);
+            throttle = true;
+        } else { // all the others get throttled
+            if(timer) clearTimeout(timer); // cancel #2
+            timer = setTimeout(() => {
+              fn.apply(this, args);
+              timer = throttle = false;
+            }, ms);
+        }
+      };
+    }
       // Attach click handler to the DT
       const annoteDls = window.document.querySelectorAll('dt[data-target-cell]');
       for (const annoteDlNode of annoteDls) {
@@ -570,6 +788,7 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
 });
 </script>
 </div> <!-- /content -->
+
 
 
 
