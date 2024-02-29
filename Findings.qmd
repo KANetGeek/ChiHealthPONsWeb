@@ -3,21 +3,15 @@ title: " "
 format: html
 ---
 
-## **Network-level**
+## **Network Domain**
 
-### **Mission Statements**
+As of March 2024, our team of researchers in UIC’s Networks and Governance Lab have identified over 65 community health and wellness collaborative groups in the City of Chicago and Cook County, involving over 800 public and private sector organizations. In the Chicago metro area reveals there is a complex and dynamic environment where diverse organizations operate with varied motivations and resources, collectively contributing to the region's public health and wellness landscape landscape.
 
-We parsed the mission statements of health networks for frequently used phrases. We were able to group our findings into five main categories: Goals, Activities, Partners, Target Populations and Lenses. (The final category, Lenses, emerged from the Goals category to refer to concepts that were mentioned frequently but were not deliverables.) 
+### **Bridging Organizations**
 
-“Goals” refer to the conditions or metrics that the networks were stated to be in service of. Examples include Computer Literacy, Job Help, Leadership, Lifestyles (meaning “healthy” or active lifestyles, in this context), and Nutrition.
+In progress
 
-“Activities” are the means by which the networks pursued these goals, for example Education (of the public) and Research. “Activities” were mentioned infrequently in the mission statements.
-
-“Partner” types were broken down into nine frequently mentioned categories: Academic (presumably university-based research centers or other related institutions, excluding actual schools), Community-Based Organizations, Caregivers (referring to individuals), Employers, Government, Healthcare Providers (institutions or companies, not individual caregivers), Partners, Schools, and Organizations (excluding those specifically referred to as “Community-Based”).
-
-“Target Populations” could refer to geography (Chicago, Southern Illinois, specific neighborhoods, etc), age (babies, children, elderly), race (Black, Asian) or economic status (underserved). 
-
-Finally, “Lenses” emerged as separate from the “Goals” category of being a larger ideal such as health equity or justice that served to guide the organization while not necessarily being measurable. 
+## **Networks**
 
 ### **Network Descriptive Statistics**
 
@@ -59,6 +53,20 @@ Activities:
 
 In the diverse landscape of public health networks within the metropolitan Chicago area, a detailed examination of their composition and operational characteristics reveals insightful patterns. These networks, primarily comprising member organizations, exhibit a variety of structural and funding attributes that shape their functioning and impact.
 
+### **Mission Statements**
+
+We parsed the mission statements of health networks for frequently used phrases. We were able to group our findings into five main categories: Goals, Activities, Partners, Target Populations and Lenses. (The final category, Lenses, emerged from the Goals category to refer to concepts that were mentioned frequently but were not deliverables.) 
+
+“Goals” refer to the conditions or metrics that the networks were stated to be in service of. Examples include Computer Literacy, Job Help, Leadership, Lifestyles (meaning “healthy” or active lifestyles, in this context), and Nutrition.
+
+“Activities” are the means by which the networks pursued these goals, for example Education (of the public) and Research. “Activities” were mentioned infrequently in the mission statements.
+
+“Partner” types were broken down into nine frequently mentioned categories: Academic (presumably university-based research centers or other related institutions, excluding actual schools), Community-Based Organizations, Caregivers (referring to individuals), Employers, Government, Healthcare Providers (institutions or companies, not individual caregivers), Partners, Schools, and Organizations (excluding those specifically referred to as “Community-Based”).
+
+“Target Populations” could refer to geography (Chicago, Southern Illinois, specific neighborhoods, etc), age (babies, children, elderly), race (Black, Asian) or economic status (underserved). 
+
+Finally, “Lenses” emerged as separate from the “Goals” category of being a larger ideal such as health equity or justice that served to guide the organization while not necessarily being measurable. 
+
 ### **Network Nature and Government Influence**
 
 A notable 24% of these networks operate under a non-profit status, highlighting a significant segment dedicated to public welfare without a profit motive. Concurrently, approximately 36% of these entities are government-mandated, indicating a substantial governmental role in public health initiatives within this region.
@@ -77,7 +85,7 @@ The activities of these networks are as varied as their funding sources. Develop
 
 This overview of the public health networks in the metro Chicago area reveals a complex and dynamic environment where diverse organizations operate with varied motivations and resources, collectively contributing to the region's public health landscape.
 
-## **Organizational-level**
+## **Organizations**
 
 ### **Distribution of member organizations by type**
 
@@ -97,6 +105,4 @@ As introduced in the previous sections, the diversity of member organizations in
 
 A closer examination indicates that only two networks, the “Collaborative for Community Wellness” and “School Health Access Collaborative”, exhibit a comprehensive mix of all these organization types. This suggests that while diversity in organizational makeup is a common feature, the extent of this diversity varies considerably across different networks. The most common composition type typically involves a combination of non-profits and one or two other organization types, underlining the central role that non-profits play in these health networks.
 
-### **Bridging Organizations**
-
-In progress
+### 
