@@ -5,23 +5,31 @@ format: html
 
 ## Project Overview
 
+### Chicago Health Network Mapping
+
+::: columns
+::: {.column width="60%"}
+![](Visualizations/Chicago%20Health%20PONs%20orgs%20only.jpeg){width="500"}
+:::
+
+::: {.column width="40%"}
+Explore how public health purpose-oriented networks (PONs) are interconnected across the metropolitan Chicago area! The map below represents PONs as blue circles and organizations as red circles. What can we learn from this visualization?
+:::
+:::
+
+-   There are MANY purpose-oriented networks that focus on community health and wellness.
+
+-   These PONs are mostly interconnected through shared member organizations.
+
+-   These connections between PONs could be advantageous, or areas of competition.
+
+-   There is a lot more to learn from the community!
+
 ### Motivation
 
 As of March 2024, a team of researchers in UIC’s Networks and Governance Lab have identified over 65 community health and wellness collaborative groups in the City of Chicago and Cook County, involving over 800 public and private sector organizations. These groups, referred to here as purpose-oriented networks (PONs), are essential to supporting the diverse health and wellness needs of our vibrant communities around UIC. Some examples of the PONs of interest include UIC’s Healthy Start Community Action Network, Partnership for Healthy Chicago, Smart Chicago Collaborative Health Centers, and more.
 
 PONs are a prevalent interorganizational forum for addressing complex public issues. While there is extensive scholarship in many fields examining interorganizational networks, less is known about the impact of a networks’ external environment on its sustainability and effectiveness over time (Nowell & Albrecht, 2023). Expanding on the mixed-methods research approach already underway, this research seeks to specifically address: How do resource strategies evolve across a set of PONs over time in reaction to community needs?
-
-### Chicago Health Network Mapping
-
-Explore how public health PONs are interconnected across the metropolitan Chicago area! The map below represents PONs as blue circles and organizations as red circles. What can we learn from this visualization?
-
--   There are MANY purpose-oriented networks that focus on community health and wellness.
-
--   These PONs are mostly interconnected through shared member organizations
-
--   These connections between PONs could be advantageous, or areas of competition
-
-![](Visualizations/Chicago%20Health%20PONs%20orgs%20only.jpeg){width="500"}
 
 **Our project is supported by the incredible folks of the Department of Public Policy, Management, and Analytics and the Networks and Governance Lab.**
 
