@@ -11,7 +11,7 @@ As of March 2024, our team of researchers in UIC’s Networks and Governance Lab
 
 In our research, we have found that within network domain, or larger community network of PONs, there are many organizations that belong to more than one PON. These organizations serve in bridging roles that connect PONs and support the sharing of ideas and resources across the domain. Of these bridging organizations, 2% are PONs themselves, 4% are for-profit, 20% are government agencies, and an incredible 74% are nonprofit organizations.
 
-![](Visualizations/Types of bridging orgs.png){fig-align="left" width="400"}
+![](Visualizations/Types%20of%20bridging%20orgs.png){fig-align="left" width="400"}
 
 ### **Core-periphery Structure**
 
@@ -19,7 +19,7 @@ Another important aspect of the City of Chicago and Cook County network domain c
 
 The network domain reflects a core-periphery style, or almost like the hub and spokes of a wheel. The core organizations and PONs are highly embedded, or interconnected, within the domain. As we continue to collect data, we aim to uncover if that embeddedness comes with both costs and benefits.
 
-![](Visualizations/Chicago Health PONs orgs only.jpeg){fig-align="left"}
+![](Visualizations/Chicago%20Health%20PONs%20orgs%20only.jpeg){fig-align="left"}
 
 ## **Networks**
 
