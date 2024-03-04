@@ -9,9 +9,15 @@ As of March 2024, our team of researchers in UIC’s Networks and Governance Lab
 
 ### **Bridging Organizations**
 
+::: columns
+::: {.column width="40%"}
 In our research, we have found that within network domain, or larger community network of PONs, there are many organizations that belong to more than one PON. These organizations serve in bridging roles that connect PONs and support the sharing of ideas and resources across the domain. Of these bridging organizations, 2% are PONs themselves, 4% are for-profit, 20% are government agencies, and an incredible 74% are nonprofit organizations.
+:::
 
+::: {.column width="60%"}
 ![](Visualizations/Types%20of%20bridging%20orgs.png){fig-align="left" width="400"}
+:::
+:::
 
 ### **Core-periphery Structure**
 
