@@ -15,7 +15,7 @@ In our research, we have found that within network domain, or larger community n
 :::
 
 ::: {.column width="60%"}
-![](Visualizations/Types%20of%20bridging%20orgs.png){fig-align="left" width="400"}
+![](Visualizations/Types%20of%20bridging%20orgs.png){fig-align="left" width="380"}
 :::
 :::
 
