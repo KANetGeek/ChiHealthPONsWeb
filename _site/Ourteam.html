@@ -2,7 +2,7 @@
 <html xmlns="http://www.w3.org/1999/xhtml" lang="en" xml:lang="en"><head>
 
 <meta charset="utf-8">
-<meta name="generator" content="quarto-1.4.548">
+<meta name="generator" content="quarto-1.4.555">
 
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
@@ -132,6 +132,7 @@ ul.task-list li input[type="checkbox"] {
   <li><a href="#shuwen-zhang-mpp-mpa" id="toc-shuwen-zhang-mpp-mpa" class="nav-link" data-scroll-target="#shuwen-zhang-mpp-mpa">Shuwen Zhang, MPP, MPA</a></li>
   <li><a href="#section" id="toc-section" class="nav-link" data-scroll-target="#section"></a></li>
   <li><a href="#yashaswi-lal-ms" id="toc-yashaswi-lal-ms" class="nav-link" data-scroll-target="#yashaswi-lal-ms">Yashaswi Lal, MS</a></li>
+  <li><a href="#tulsi-mehta" id="toc-tulsi-mehta" class="nav-link" data-scroll-target="#tulsi-mehta">Tulsi Mehta</a></li>
   </ul></li>
   </ul>
 </nav>
@@ -153,7 +154,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="kate-albrecht-phd"><strong>Kate Albrecht, PhD</strong></h3>
 <p>Email: kalbrech@uic.edu</p>
 <p>Kate Albrecht’s research focuses on public organizations engaging in both formal and informal structures of collaborative governance. Albrecht’s interests in understanding organizations as actors within broader institutional and community environments has led to a secondary focus on research methods, particularly methodologies capable of handling longitudinal, multi-level, dynamic, and inter-dependent data structures.</p>
-<p><img src="Team Bio/Shuwen.jpg" class="img-fluid" width="300"></p>
+<p><img src="Team Bio/Shuwen.jpg" class="img-fluid" width="240"></p>
 </section>
 <section id="shuwen-zhang-mpp-mpa" class="level3">
 <h3 class="anchored" data-anchor-id="shuwen-zhang-mpp-mpa">Shuwen Zhang, MPP, MPA</h3>
@@ -164,7 +165,7 @@ ul.task-list li input[type="checkbox"] {
 <h3 width="300" class="anchored" data-anchor-id="section"></h3>
 <div class="quarto-figure quarto-figure-left">
 <figure class="figure">
-<p><img src="Team Bio/Yashaswi.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" width="300"></p>
+<p><img src="Team Bio/Yashaswi.jpg" class="img-fluid quarto-figure quarto-figure-left figure-img" width="240"></p>
 </figure>
 </div>
 </section>
@@ -172,6 +173,12 @@ ul.task-list li input[type="checkbox"] {
 <h3 class="anchored" data-anchor-id="yashaswi-lal-ms">Yashaswi Lal, MS</h3>
 <p>Email: ylal2@uic.edu</p>
 <p>Yashaswi Lal is a first-year Ph.D.&nbsp;student of Public Administration at the department of Public Policy, Analysis and Management at CUPPA, UIC. With a master’s degree in applied economics, she aims to contribute innovative solutions to contemporary public administration challenges and emerge as a scholar looking to make a positive impact on society through collaboration with peers and faculty and dissemination of research findings.</p>
+<p><img src="Team Bio/Tulsi.jpg" class="img-fluid" width="240"></p>
+</section>
+<section id="tulsi-mehta" class="level3">
+<h3 class="anchored" data-anchor-id="tulsi-mehta">Tulsi Mehta</h3>
+<p>Email: tmehta20@uic.edu</p>
+<p>Tulsi Mehta is a fourth-year&nbsp;B.S. student studying Integrated Health Sciences in the College of LAS at UIC and is pursuing a minor in Business Administration. Her analysis and data collection skills help to build a structure of the research we delve into.</p>
 
 
 </section>
@@ -401,6 +408,24 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
     // clear code selection
     e.clearSelection();
   });
+    var localhostRegex = new RegExp(/^(?:http|https):\/\/localhost\:?[0-9]*\//);
+    var mailtoRegex = new RegExp(/^mailto:/);
+      var filterRegex = new RegExp('/' + window.location.host + '/');
+    var isInternal = (href) => {
+        return filterRegex.test(href) || localhostRegex.test(href) || mailtoRegex.test(href);
+    }
+    // Inspect non-navigation links and adorn them if external
+ 	var links = window.document.querySelectorAll('a[href]:not(.nav-link):not(.navbar-brand):not(.toc-action):not(.sidebar-link):not(.sidebar-item-toggle):not(.pagination-link):not(.no-external):not([aria-hidden]):not(.dropdown-item):not(.quarto-navigation-tool)');
+    for (var i=0; i<links.length; i++) {
+      const link = links[i];
+      if (!isInternal(link.href)) {
+        // undo the damage that might have been done by quarto-nav.js in the case of
+        // links that we want to consider external
+        if (link.dataset.originalHref !== undefined) {
+          link.href = link.dataset.originalHref;
+        }
+      }
+    }
   function tippyHover(el, contentFn, onTriggerFn, onUntriggerFn) {
     const config = {
       allowHTML: true,
@@ -435,7 +460,11 @@ window.document.addEventListener("DOMContentLoaded", function (event) {
       try { href = new URL(href).hash; } catch {}
       const id = href.replace(/^#\/?/, "");
       const note = window.document.getElementById(id);
-      return note.innerHTML;
+      if (note) {
+        return note.innerHTML;
+      } else {
+        return "";
+      }
     });
   }
   const xrefs = window.document.querySelectorAll('a.quarto-xref');
