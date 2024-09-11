@@ -5,7 +5,7 @@ format: html
 
 ## Our Team
 
-![](Team Bio/katealbrecht.jpg){fig-align="left"}
+![](Team%20Bio/katealbrecht.jpg){fig-align="left"}
 
 ### **Kate Albrecht, PhD**
 
@@ -13,7 +13,7 @@ Email: kalbrech\@uic.edu
 
 Kate Albrecht’s research focuses on public organizations engaging in both formal and informal structures of collaborative governance. Albrecht’s interests in understanding organizations as actors within broader institutional and community environments has led to a secondary focus on research methods, particularly methodologies capable of handling longitudinal, multi-level, dynamic, and inter-dependent data structures.
 
-![](Team Bio/Shuwen.png){fig-align="left" width="240"}
+![](Team%20Bio/Shuwen.png){fig-align="left" width="240"}
 
 ### Shuwen Zhang, MPP, MPA
 
@@ -23,7 +23,7 @@ Shuwen Zhang is a Ph.D candidate in the Department of Public Administration at t
 
 ###  {width="300"}
 
-![](Team Bio/Yashaswi.jpg){fig-align="left" width="240"}
+![](Team%20Bio/Yashaswi.jpg){fig-align="left" width="240"}
 
 ### Yashaswi Lal, MS
 
@@ -31,7 +31,7 @@ Email: ylal2\@uic.edu
 
 Yashaswi Lal is a first-year Ph.D. student of Public Administration at the department of Public Policy, Analysis and Management at CUPPA, UIC. With a master's degree in applied economics, she aims to contribute innovative solutions to contemporary public administration challenges and emerge as a scholar looking to make a positive impact on society through collaboration with peers and faculty and dissemination of research findings.
 
-![](Team Bio/Marshal.jpg){fig-align="left" width="240"}
+![](Team%20Bio/Marshal.jpg){fig-align="left" width="240"}
 
 ### Mashal E Zehra
 
@@ -39,15 +39,15 @@ Email: mzehra4\@uic.edu
 
 Mashal E Zehra is a PhD student of Public Administration at the University of Illinois at Chicago. Her research interests lie in exploring the institutional and structural precursors of public service network evolution. She is interested in how interlocal collaboration networks sustain across time and navigate complexities of purpose and goals.\
 
-
-![](Team Bio/Sheila.jpg){fig-align="left" width="240"}
+![](Team%20Bio/Sheila.jpg){fig-align="left" width="240"}
 
 ### Sheila Santos
+
 Email: mkaur28\@uic.edu
 
-Sheila Santos is a first-year student in the Master of Public Administration (MPA). She graduated from University of Illinois Chicago with a bachelor’s degree in Public Policy with minors in nonprofit management and political science. She has diverse experience in community engagement, policy research, and event planning. Sheila is passionate about fostering community collaboration and addressing systemic inequalities through thoughtful policy and program development. 
+Sheila Santos is a first-year student in the Master of Public Administration (MPA). She graduated from University of Illinois Chicago with a bachelor’s degree in Public Policy with minors in nonprofit management and political science. She has diverse experience in community engagement, policy research, and event planning. Sheila is passionate about fostering community collaboration and addressing systemic inequalities through thoughtful policy and program development.
 
-![](Team Bio/Manroop.jpg){fig-align="left" width="240"}
+![](Team%20Bio/Manroop.jpg){fig-align="left" width="240"}
 
 ### Manroop Kaur
 
