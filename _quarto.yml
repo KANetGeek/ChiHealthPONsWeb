@@ -11,6 +11,8 @@ website:
         file: Findings.qmd
       - text: "Project Information"
         file: ProjectInformation.qmd
+      - text: "Network Stories"
+        file: NetworkStory.qmd
       - text: "Our Team"
         file: Ourteam.qmd
       - text: "Connect with Us"
