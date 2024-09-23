@@ -1,0 +1,21 @@
+---
+title: " "
+---
+
+# Network Stories
+
+## West Side United
+
+::: columns
+::: {.column width="30%"}
+![](Logos/West Side United.png)
+:::
+::: {.column width="10%"}
+
+:::
+::: {.column width="60%"}
+Brief intro here...
+
+\[Download the full report\]
+:::
+:::
