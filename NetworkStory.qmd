@@ -6,7 +6,7 @@ title: " "
 
 ## West Side United
 
-::: columns
+:::::: columns
 ::: {.column width="30%"}
 ![](Logos/West%20Side%20United.png)
 :::
@@ -15,8 +15,26 @@ title: " "
 :::
 
 ::: {.column width="60%"}
-Brief intro here...
+West Side United was established to address the stark health disparities on Chicago’s West Side, where life expectancy can be up to 16 years shorter than in wealthier neighborhoods.
 
-\[Download the full report\]
+[\[Download the full report\]](https://uofi.box.com/s/swbj5t49mbrv65bc7e6bpmq30tfqieoc)
 :::
+::::::
+
+## Collaborative for Community Wellness
+
+:::::: columns
+::: {.column width="30%"}
+![](Logos/Collaborative%20for%20Community%20Wellness.png)
 :::
+
+::: {.column width="10%"}
+:::
+
+::: {.column width="60%"}
+Collaborative for Community Wellness established in 2018 to address mental health disparities in Chicago's undeserved communities, advocating for systemic change.
+
+[\[Download the full report\]](https://uofi.box.com/s/7b3o8n3lbp79gsi8wo3t1812u6llzzip)
+:::
+::::::
+

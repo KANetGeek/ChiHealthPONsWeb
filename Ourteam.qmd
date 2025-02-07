@@ -5,50 +5,136 @@ format: html
 
 ## Our Team
 
-<img src="Team%20Bio/katealbrecht.jpg" style="float:left; margin-right:15px;" width="200"/>
+:::::: columns
 
+::: {.column width="40%"}
+<img src="Team%20Bio/katealbrecht.jpg" style="float:left; margin-right:15px;" width="300"/>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
 ### **Kate Albrecht, PhD**
-
 **Email:** [kalbrech\@uic.edu](mailto:kalbrech@uic.edu)
 
 Kate Albrecht's research focuses on public organizations engaging in both formal and informal structures of collaborative governance. Albrecht's interests in understanding organizations as actors within broader institutional and community environments has led to a secondary focus on research methods, particularly methodologies capable of handling longitudinal, multi-level, dynamic, and inter-dependent data structures.
 
-<img src="Team%20Bio/Shuwen.png" style="float:left; margin-right:15px;" width="200"/>
 
+:::
+::::::
+
+:::::: columns
+
+::: {.column width="40%"}
+<img src="Team%20Bio/Shuwen.png" style="float:left; margin-right:15px;" width="300"/>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
 ### Shuwen Zhang, MPP, MPA
-
 **Email:** [szhan47\@uic.edu](mailto:szhan47@uic.edu)
 
 Shuwen Zhang is a Ph.D candidate in the Department of Public Policy, Management, and Analytics (PPMA) at the University of Illinois Chicago, specializing in collaborative governance, regional intergovernmental organizations, and social network analysis. Her research delves into the intricacies of how governments work together to solve complex challenges that transcend jurisdictional boundaries.
 
-<img src="Team%20Bio/Yashaswi.jpg" style="float:left; margin-right:15px;" width="200"/>
 
+:::
+::::::
+
+:::::: columns
+
+::: {.column width="40%"}
+<img src="Team%20Bio/Yashaswi.jpg" style="float:left; margin-right:15px;" width="300"/>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
 ### Yashaswi Lal, MS
-
 **Email:** [ylal2\@uic.edu](mailto:ylal2@uic.edu)
 
 Yashaswi Lal is a second-year Ph.D. student of Public Administration at the department of Public Policy, Analysis and Management at CUPPA, UIC. With a master's degree in applied economics, she aims to contribute innovative solutions to contemporary public administration challenges and emerge as a scholar looking to make a positive impact on society through collaboration with peers and faculty and dissemination of research findings.
 
-<img src="Team%20Bio/Marshal.jpg" style="float:left; margin-right:15px;" width="200"/>
 
+:::
+::::::
+
+:::::: columns
+
+::: {.column width="40%"}
+<img src="Team%20Bio/Marshal.jpg" style="float:left; margin-right:15px;" width="300"/>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
 ### Mashal E Zehra
-
 **Email:** [mzehra4\@uic.edu](mailto:mzehra4@uic.edu)
 
 Mashal E Zehra is a PhD student at the University of Illinois at Chicago. Her research interests lie in exploring the institutional and structural precursors of public service network evolution. She is interested in how interlocal collaboration networks sustain across time and navigate complexities of purpose and goals.
 
-<img src="Team%20Bio/Sheila.jpg" style="float:left; margin-right:15px;" width="200"/>
 
+:::
+::::::
+
+
+:::::: columns
+
+::: {.column width="40%"}
+<img src="Team%20Bio/Sheila.jpg" style="float:left; margin-right:15px;" width="300"/>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
 ### Sheila Santos
-
 **Email:** [mkaur28\@uic.edu](mailto:mkaur28@uic.edu)
 
 Sheila Santos is a first-year student in the Master of Public Administration (MPA). She graduated from University of Illinois Chicago with a bachelor's degree in Public Policy with minors in nonprofit management and political science. She has diverse experience in community engagement, policy research, and event planning. Sheila is passionate about fostering community collaboration and addressing systemic inequalities through thoughtful policy and program development.
 
-<img src="Team%20Bio/Manroop.jpg" style="float:left; margin-right:15px;" width="200"/>
 
+:::
+::::::
+
+:::::: columns
+
+::: {.column width="40%"}
+<img src="Team%20Bio/Manroop.jpg" style="float:left; margin-right:15px;" width="300"/>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
 ### Manroop Kaur
-
 **Email:** [mkaur28\@uic.edu](mailto:mkaur28@uic.edu)
 
 Manroop Kaur is a sophomore at the University of Illinois Chicago, studying Criminology, Law, and Justice. Manroop is passionate about exploring how public policy and the law interact with crime, equality, and society, seeking to understand the broader social implications of legal frameworks and criminal justice systems.
+
+
+:::
+::::::
+
+:::::: columns
+
+::: {.column width="40%"}
+<img src="Team%20Bio/Trinity.jpg" style="float:left; margin-right:15px;" width="300"/>
+:::
+
+::: {.column width="5%"}
+:::
+
+::: {.column width="55%"}
+### Trinity Jefferson
+**Email:** [tjeffe4@uic.edu](mailto:tjeffe4@uic.edu)
+
+Trinity Jefferson is a pre-law student majoring in public policy with a focus on economic development and social justice. She has recently been gravitating towards the law and advocating for people’s rights. Through her degree program, she hopes to develop a more critical way of thinking and explore how to implement the components of program theory for policy analysis, evaluation, and solutions. She aims to complete the program with a more educated and considerate approach to policy. Trinity is passionate about applying what she has learned to make a positive difference in the lives of people living in marginalized communities.
+
+
+:::
+::::::
