@@ -7,7 +7,7 @@ format: html
 
 ### Chicago Health Network Mapping
 
-::: columns
+::::: columns
 ::: {.column width="60%"}
 ![](Visualizations/Chicago%20Health%20PONs%20orgs%20only.jpeg){width="500"}
 :::
@@ -17,7 +17,7 @@ Explore how public health purpose-oriented networks (PONs) are interconnected ac
 
 This map represents PONs as blue circles and organizations as red circles. What can we learn from this visualization about health and wellness networks and the bigger picture of how they interact?
 :::
-:::
+:::::
 
 -   There are MANY purpose-oriented networks that focus on community health and wellness.
 
